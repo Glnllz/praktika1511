@@ -53,6 +53,7 @@ static bool isMatrixSymmetric(int[,] matrix, int rows, int columns)
 }
 */
 
+//2 Задание
 /*
 int days = Convert.ToInt32(Console.ReadLine());
 int[] daysTemp = new int[days];
