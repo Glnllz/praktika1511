@@ -53,7 +53,7 @@ static bool isMatrixSymmetric(int[,] matrix, int rows, int columns)
 }
 */
 
-//2 Задание
+//2 Заданиe
 /*
 int days = Convert.ToInt32(Console.ReadLine());
 int[] daysTemp = new int[days];
@@ -101,7 +101,7 @@ for (int i = 0; i < minTemperature.Count; i++)
 }
 */
 
-
+//3 Задание
 int N = Convert.ToInt32(Console.ReadLine());
 int[] nums = new int[N];
 
